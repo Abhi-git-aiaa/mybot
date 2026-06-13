@@ -73,5 +73,5 @@ TODAY'S QUOTE
     send_email(summary)
     print("Pulse ran successfully.")
 
-if name == "main":
+if __name__ == "main":
     run()
